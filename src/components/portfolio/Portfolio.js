@@ -13,13 +13,14 @@ export default function Portfolio() {
                    </Grid>
                 ))} */}
                 <iframe 
-                    width="1015"
-                    height="571"
-                    src="https://www.youtube.com/embed/dlP_vzAxX_8"
-                    title="Puppy Whelping Room at Warrior Canine Connection powered by EXPLORE.org"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin">
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/h-Z0wCdD3dI?si=7Ct3uRmeTxrFRbpu" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    referrerpolicy="strict-origin-when-cross-origin" 
+                    allowfullscreen>
                 </iframe>
             </Grid>
         </Box>
